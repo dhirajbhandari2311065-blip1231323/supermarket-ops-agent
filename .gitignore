@@ -1,0 +1,29 @@
+# Environment & Secrets
+.env
+*.env
+
+# SQLite Database Files
+*.db
+*.sqlite3
+supermarket.db
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Generated Artifacts
+*.pdf
+*.pptx
+invoice*.pdf
+sales_analysis*.pptx
+
+# IDE & Editor Files
+.vscode/
+.idea/
